@@ -1,8 +1,6 @@
 # Hi, I'm Ankush
 
-I'm a product leader and former software engineer. I spent roughly five years each at early Uber and Netflix, building consumer products, machine-learning systems, and global operational platforms.
-
-My best work starts with a capability or problem that is still poorly understood, then turns it into a product people can use at scale. Most of that work was built inside Netflix and Uber, so this page is a product portfolio with public evidence rather than a collection of open-source code.
+I'm a product leader and former software engineer. I spent ~five years each at early Uber and Netflix, building consumer products, machine-learning systems, and tools for creative & operational teams.
 
 ## Selected product work
 
@@ -32,8 +30,8 @@ I founded the Creative Innovation work that became Muse, an internal product tha
 
 ### [Uber Real-Time Document Check](https://www.uber.com/us/en/blog/ubers-real-time-document-check/)
 
-**Product lead | Global onboarding and identity infrastructure**
+**Product lead & Senior Software Engineer | Global onboarding and identity infrastructure**
 
-I owned Uber's onboarding and identity platform across cities and work types. I led document-processing systems handling more than 10 million driver and rider documents each month, including real-time classification, transcription, fraud detection, configurable verification, and human review.
+I worked on Uber's onboarding and identity platform. I led document-processing systems handling more than 10 million driver and rider documents each month, including real-time classification, transcription, fraud detection, configurable verification, and human review.
 
 [Read about Uber's Real-Time Document Check →](https://www.uber.com/us/en/blog/ubers-real-time-document-check/)
